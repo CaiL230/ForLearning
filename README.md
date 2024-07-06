@@ -1,2 +1,0 @@
-# text
-django-project-text
